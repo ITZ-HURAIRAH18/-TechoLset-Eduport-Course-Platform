@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [Visit Website](chloset.netlify.app)  
+🔗 [Visit Website](https://techloset.netlify.app/)  
 
 
 ---
